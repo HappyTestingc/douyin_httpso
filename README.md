@@ -5,6 +5,10 @@
 #### 用法
 ![](./png/1.png "")
 
+#### 可以结合  
+
+https://github.com/satng/MiMiYaHelper
+
 ```
 libcms.so md5 446ea6cb626b3f3fdb2607f398e99f3e
 ```
